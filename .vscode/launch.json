@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/GradeBook/bin/Debug/netcoreapp3.1/gradebook.dll",
+            "program": "${workspaceFolder}CSharp2020/ConsoleApplications/GradeBook/bin/Debug/netcoreapp3.1/gradebook.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/GradeBook",
+            "cwd": "${workspaceFolder}CSharp2020/ConsoleApplications/GradeBook",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
