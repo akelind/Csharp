@@ -6,7 +6,8 @@ namespace gradebook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Gradebook,{args [0]}");
+            Console.WriteLine($"Var{args [0]}");
         }
     }
 }
+

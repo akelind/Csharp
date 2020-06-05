@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/ConsoleApplications/gradebook/bin/Debug/netcoreapp3.1/gradebook.dll",
-            "args": [],
+            "args": ["dags","rum"],
             "cwd": "${workspaceFolder}/ConsoleApplications/gradebook",
             "console": "internalConsole",
             "stopAtEntry": false
