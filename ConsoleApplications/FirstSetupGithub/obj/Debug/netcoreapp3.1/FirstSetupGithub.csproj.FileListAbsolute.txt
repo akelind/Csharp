@@ -1,0 +1,13 @@
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\bin\Debug\netcoreapp3.1\FirstSetupGithub.exe
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\bin\Debug\netcoreapp3.1\FirstSetupGithub.deps.json
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\bin\Debug\netcoreapp3.1\FirstSetupGithub.runtimeconfig.json
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\bin\Debug\netcoreapp3.1\FirstSetupGithub.runtimeconfig.dev.json
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\bin\Debug\netcoreapp3.1\FirstSetupGithub.dll
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\bin\Debug\netcoreapp3.1\FirstSetupGithub.pdb
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.csprojAssemblyReference.cache
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.csproj.CoreCompileInputs.cache
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.AssemblyInfoInputs.cache
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.AssemblyInfo.cs
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.dll
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.pdb
+D:\csharp2020\ConsoleApplications\FirstSetupGithub\obj\Debug\netcoreapp3.1\FirstSetupGithub.genruntimeconfig.cache

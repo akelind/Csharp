@@ -1,0 +1,13 @@
+D:\csharp2020\ConsoleApplications\gradebook\bin\Debug\netcoreapp3.1\gradebook.exe
+D:\csharp2020\ConsoleApplications\gradebook\bin\Debug\netcoreapp3.1\gradebook.deps.json
+D:\csharp2020\ConsoleApplications\gradebook\bin\Debug\netcoreapp3.1\gradebook.runtimeconfig.json
+D:\csharp2020\ConsoleApplications\gradebook\bin\Debug\netcoreapp3.1\gradebook.runtimeconfig.dev.json
+D:\csharp2020\ConsoleApplications\gradebook\bin\Debug\netcoreapp3.1\gradebook.dll
+D:\csharp2020\ConsoleApplications\gradebook\bin\Debug\netcoreapp3.1\gradebook.pdb
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.csprojAssemblyReference.cache
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.csproj.CoreCompileInputs.cache
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.AssemblyInfoInputs.cache
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.AssemblyInfo.cs
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.dll
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.pdb
+D:\csharp2020\ConsoleApplications\gradebook\obj\Debug\netcoreapp3.1\gradebook.genruntimeconfig.cache
