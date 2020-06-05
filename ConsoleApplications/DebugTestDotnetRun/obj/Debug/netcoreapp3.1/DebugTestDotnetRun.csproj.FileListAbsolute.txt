@@ -1,0 +1,13 @@
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\bin\Debug\netcoreapp3.1\DebugTestDotnetRun.exe
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\bin\Debug\netcoreapp3.1\DebugTestDotnetRun.deps.json
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\bin\Debug\netcoreapp3.1\DebugTestDotnetRun.runtimeconfig.json
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\bin\Debug\netcoreapp3.1\DebugTestDotnetRun.runtimeconfig.dev.json
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\bin\Debug\netcoreapp3.1\DebugTestDotnetRun.dll
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\bin\Debug\netcoreapp3.1\DebugTestDotnetRun.pdb
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.csprojAssemblyReference.cache
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.csproj.CoreCompileInputs.cache
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.AssemblyInfoInputs.cache
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.AssemblyInfo.cs
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.dll
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.pdb
+D:\csharp2020\ConsoleApplications\DebugTestDotnetRun\obj\Debug\netcoreapp3.1\DebugTestDotnetRun.genruntimeconfig.cache

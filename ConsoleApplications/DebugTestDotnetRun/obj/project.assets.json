@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp2020\\ConsoleApplications\\gradebook\\gradebook.csproj",
-      "projectName": "gradebook",
-      "projectPath": "D:\\csharp2020\\ConsoleApplications\\gradebook\\gradebook.csproj",
+      "projectUniqueName": "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\DebugTestDotnetRun.csproj",
+      "projectName": "DebugTestDotnetRun",
+      "projectPath": "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\DebugTestDotnetRun.csproj",
       "packagesPath": "C:\\Users\\ea\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp2020\\ConsoleApplications\\gradebook\\obj\\",
+      "outputPath": "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

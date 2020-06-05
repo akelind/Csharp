@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp2020\\ConsoleApplications\\GradeBook\\gradebook.csproj": {}
+    "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\gradebook.csproj": {}
   },
   "projects": {
-    "D:\\CSharp2020\\ConsoleApplications\\GradeBook\\gradebook.csproj": {
+    "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp2020\\ConsoleApplications\\GradeBook\\gradebook.csproj",
+        "projectUniqueName": "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\gradebook.csproj",
         "projectName": "gradebook",
-        "projectPath": "D:\\CSharp2020\\ConsoleApplications\\GradeBook\\gradebook.csproj",
+        "projectPath": "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\gradebook.csproj",
         "packagesPath": "C:\\Users\\ea\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp2020\\ConsoleApplications\\GradeBook\\obj\\",
+        "outputPath": "D:\\csharp2020\\ConsoleApplications\\DebugTestDotnetRun\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
