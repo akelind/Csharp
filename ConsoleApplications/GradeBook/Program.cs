@@ -6,9 +6,9 @@ namespace gradebook
     {
         static void Main(string[] args)
         {
-            string HelloWorld = "Hello World"
-            Console.WriteLine("Hello World!");
-            Console.WriteLine(HelloWorld);
+            string FirstsetupwtihGitHub = "First setup wtih GitHub";
+            Console.WriteLine("First setup wtih GitHub");
+            Console.WriteLine(FirstsetupwtihGitHub);
         }
     }
 }
