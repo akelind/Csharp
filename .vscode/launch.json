@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/ConsoleApplications/DebugTestDotnetRun/bin/Debug/netcoreapp3.1/DebugTestDotnetRun.dll",
-            "args": ["Dags","Mat"],
+            "args": [],
             "cwd": "${workspaceFolder}/ConsoleApplications/DebugTestDotnetRun",
             "console": "internalConsole",
             "stopAtEntry": false
