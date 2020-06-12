@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace gradebook
+namespace DebugTestDotNetRun
 {
     class Program
     {
