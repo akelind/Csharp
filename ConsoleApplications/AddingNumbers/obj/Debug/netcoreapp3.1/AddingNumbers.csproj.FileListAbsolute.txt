@@ -1,0 +1,13 @@
+D:\csharp2020\ConsoleApplications\addingNUmbers\bin\Debug\netcoreapp3.1\AddingNumbers.exe
+D:\csharp2020\ConsoleApplications\addingNUmbers\bin\Debug\netcoreapp3.1\AddingNumbers.deps.json
+D:\csharp2020\ConsoleApplications\addingNUmbers\bin\Debug\netcoreapp3.1\AddingNumbers.runtimeconfig.json
+D:\csharp2020\ConsoleApplications\addingNUmbers\bin\Debug\netcoreapp3.1\AddingNumbers.runtimeconfig.dev.json
+D:\csharp2020\ConsoleApplications\addingNUmbers\bin\Debug\netcoreapp3.1\AddingNumbers.dll
+D:\csharp2020\ConsoleApplications\addingNUmbers\bin\Debug\netcoreapp3.1\AddingNumbers.pdb
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.csprojAssemblyReference.cache
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.csproj.CoreCompileInputs.cache
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.AssemblyInfoInputs.cache
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.AssemblyInfo.cs
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.dll
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.pdb
+D:\csharp2020\ConsoleApplications\addingNUmbers\obj\Debug\netcoreapp3.1\AddingNumbers.genruntimeconfig.cache
