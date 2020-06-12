@@ -12,7 +12,7 @@ namespace gradebook
             }
             else
             {
-            Console.WriteLine("Kvällsmiddag");
+            Console.WriteLine("Sovrum");
             }
         }
     }
