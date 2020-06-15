@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace FirstSetupGithub
 {
@@ -26,7 +27,7 @@ namespace FirstSetupGithub
             System.Console.WriteLine(rda);
             */
 
-            
+            /*
             var arrnum = new[]{33.99,33.99,33.99};
             var rarrnum = 0.0;
             foreach (var ddn in arrnum)
@@ -34,8 +35,32 @@ namespace FirstSetupGithub
                  rarrnum +=ddn;   
             }
             System.Console.WriteLine(rarrnum);
+            */
+
+            var dnumbers = new List<double>(){5.1,6.3,12.6};
+            dnumbers.Add(11.7);
+            double dresult = 0.0;
             
-            
+            /*
+            // Shows the list numbers and sums them up i each CW statement.    
+            foreach (var item in dnumbers)
+            {
+                dresult +=item;
+                System.Console.WriteLine("Printing out the list of items(doubles): /n "+ item);
+                System.Console.WriteLine("Printing out the sum of the list of items(doubles): /n "+ dresult);
+            }
+            */
+
+            // Calculate the avrage grade of the above numbers    
+            foreach (var dnumber in dnumbers)
+            {
+              
+                dresult +=dnumber;
+                 
+            }
+            dresult = dresult / dnumbers.Count;
+             
+            System.Console.WriteLine("Printing out the avrage number of the list of items(doubles): /n "+ dresult);
         }
     }
 }
