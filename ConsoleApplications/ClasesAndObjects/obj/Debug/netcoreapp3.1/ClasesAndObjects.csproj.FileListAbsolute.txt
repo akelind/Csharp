@@ -1,0 +1,13 @@
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\bin\Debug\netcoreapp3.1\ClasesAndObjects.exe
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\bin\Debug\netcoreapp3.1\ClasesAndObjects.deps.json
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\bin\Debug\netcoreapp3.1\ClasesAndObjects.runtimeconfig.json
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\bin\Debug\netcoreapp3.1\ClasesAndObjects.runtimeconfig.dev.json
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\bin\Debug\netcoreapp3.1\ClasesAndObjects.dll
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\bin\Debug\netcoreapp3.1\ClasesAndObjects.pdb
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.csprojAssemblyReference.cache
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.csproj.CoreCompileInputs.cache
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.AssemblyInfoInputs.cache
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.AssemblyInfo.cs
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.dll
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.pdb
+D:\csharp2020\ConsoleApplications\ClasesAndObjects\obj\Debug\netcoreapp3.1\ClasesAndObjects.genruntimeconfig.cache

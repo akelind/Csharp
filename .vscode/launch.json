@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ConsoleApplications/AddingNumbers/bin/Debug/netcoreapp3.1/AddingNumbers.dll",
+            "program": "${workspaceFolder}/ConsoleApplications/ClasesAndObjects/bin/Debug/netcoreapp3.1/ClasesAndObjects.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ConsoleApplications/AddingNumbers",
+            "cwd": "${workspaceFolder}/ConsoleApplications/ClasesAndObjects",
             "console": "internalConsole",
             "stopAtEntry": false
         },

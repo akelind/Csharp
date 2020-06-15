@@ -54,13 +54,10 @@ namespace FirstSetupGithub
             // Calculate the avrage grade of the above numbers    
             foreach (var dnumber in dnumbers)
             {
-              
-                dresult +=dnumber;
-                 
+                dresult +=dnumber;    
             }
             dresult = dresult / dnumbers.Count;
-             
-            System.Console.WriteLine("Printing out the avrage number of the list of items(doubles): /n "+ dresult);
+            System.Console.WriteLine($"Printing out the avrage number of the list of items(doubles) is: {dresult}");
         }
     }
 }
