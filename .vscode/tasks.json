@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/ConsoleApplications/ClasesAndObjects/ClasesAndObjects.csproj",
+                "${workspaceFolder}/ConsoleApplications/PuzzelsLeg36/PuzzelsLeg36.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-              "${workspaceFolder}/ConsoleApplications/ClasesAndObjects/ClasesAndObjects.csproj",
+              "${workspaceFolder}/ConsoleApplications/PuzzelsLeg36/PuzzelsLeg36.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

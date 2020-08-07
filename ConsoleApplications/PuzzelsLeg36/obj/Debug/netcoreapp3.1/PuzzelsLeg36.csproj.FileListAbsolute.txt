@@ -1,0 +1,13 @@
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\bin\Debug\netcoreapp3.1\PuzzelsLeg36.exe
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\bin\Debug\netcoreapp3.1\PuzzelsLeg36.deps.json
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\bin\Debug\netcoreapp3.1\PuzzelsLeg36.runtimeconfig.json
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\bin\Debug\netcoreapp3.1\PuzzelsLeg36.runtimeconfig.dev.json
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\bin\Debug\netcoreapp3.1\PuzzelsLeg36.dll
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\bin\Debug\netcoreapp3.1\PuzzelsLeg36.pdb
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.csprojAssemblyReference.cache
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.csproj.CoreCompileInputs.cache
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.AssemblyInfoInputs.cache
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.AssemblyInfo.cs
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.dll
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.pdb
+D:\CSharp2020\ConsoleApplications\PuzzelsLeg36\obj\Debug\netcoreapp3.1\PuzzelsLeg36.genruntimeconfig.cache

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ConsoleApplications/ClasesAndObjects/bin/Debug/netcoreapp3.1/ClasesAndObjects.dll",
+            "program": "${workspaceFolder}/ConsoleApplications/PuzzelsLeg36/bin/Debug/netcoreapp3.1/PuzzelsLeg36.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ConsoleApplications/ClasesAndObjects",
+            "cwd": "${workspaceFolder}/ConsoleApplications/PuzzelsLeg36",
             "console": "internalConsole",
             "stopAtEntry": false
         },
