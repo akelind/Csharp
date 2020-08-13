@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ConsoleApplications/PuzzelsLeg36/bin/Debug/netcoreapp3.1/PuzzelsLeg36.dll",
+            "program": "${workspaceFolder}/ConsoleApplications/AddingNumbers/bin/Debug/netcoreapp3.1/AddingNumbers.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ConsoleApplications/PuzzelsLeg36",
+            "cwd": "${workspaceFolder}/ConsoleApplications/AddingNumbers",
             "console": "internalConsole",
             "stopAtEntry": false
         },
