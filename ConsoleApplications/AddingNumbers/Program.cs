@@ -5,20 +5,48 @@ namespace FirstSetupGithub
 {
     class Program
     {
-        public static (int,int, int) Sum(int a,int b,int c) 
+        /* //Return the Sum of Two Numbers
+        public static (int,int,int) Sum(int a,int b,int c) 
     {
+       
         a = 3+2;
         b = -3+-6;
         c = 7+3;      
         return (a,b,c);    
     }
+    */
+    
+    //Convert Minutes into Seconds
+    public static (int,int,int) Mintosec(int fMin,int trMin,int twMin) 
+    {
+        fMin =5*60;    
+        trMin=3*60;
+        twMin=2*60;
+        
+        return (fMin,trMin,twMin);    
+    }
+    
         public static void Main(string[] args)
         {
+            // 5min * 60 sek = 300
+            // 3min * 60 sek = 180
+            // 2min * 60 sek = 120
+            
+            //int total_minToSec = 5;    
+            //int minutes = total_minToSec * 60;
+            
+            int fMin=0,trMin=0,twMin=0;
+            System.Console.WriteLine(Mintosec(fMin,trMin,twMin));
+
+
+        /*
+        //Return the Sum of Two Numbers   
             int a = 0;
             int b = 0;
             int c = 0;
             System.Console.WriteLine(Sum(a,b,c));
-           
+        */
+
             /*
             double Fx= 33.33;
             double Fy= 33.33;
